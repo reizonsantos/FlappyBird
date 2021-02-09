@@ -153,32 +153,3 @@ function FlappyBird(){
 }
 
 new FlappyBird().start()
-
-//Testar função Passaro
-// const barreiras = new Barreiras(700, 1200, 400, 400)
-// const passaro = new Passaro(700)
-// const areaDoJogo = document.querySelector('[wm-flappy]')
-// areaDoJogo.appendChild(passaro.elemento)
-// areaDoJogo.appendChild(new Progresso().elemento)
-// barreiras.pares.forEach(par => areaDoJogo.appendChild(par.elemento))
-// setInterval(() => {
-//     barreiras.animar()
-//     passaro.animar()
-// }, 20)
-
-//Testar função Barreiras
-// const barreiras = new Barreiras(700, 1200, 400, 400)
-// const areaDoJogo = document.querySelector('[wm-flappy]')
-// barreiras.pares.forEach(par => areaDoJogo.appendChild(par.elemento))
-// setInterval(() => {
-//     barreiras.animar()
-// }, 20)
-
-//Testar função ParBarreiras
-// const b = new ParBarreira(700, 400, 400)
-// document.querySelector('[wm-flappy]').appendChild(b.elemento);
-
-//Função testar Barreira
-// const b  = new Barreira(true);
-// b.setAltura(200);
-// document.querySelector('[wm-flappy]').appendChild(b.elemento);
