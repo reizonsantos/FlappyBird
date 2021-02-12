@@ -1,3 +1,3 @@
-<h1 align="center">Flappy Bird</h1>
+# FlappyBird
 
-<p align="center">Exercicio criado do Curso Web Moderno Completo</p>
+Exercicio do curso de Desenvolvimento WEB, criado em HTML, CSS e JS.
